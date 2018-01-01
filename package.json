@@ -1,0 +1,26 @@
+{
+  "name": "vue-koa-admin",
+  "version": "1.0.0",
+  "description": "vue-koa-admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unknownsky/vue-koa-admin.git"
+  },
+  "keywords": [
+    "vue2",
+    "koa2"
+  ],
+  "author": "wuhaojian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unknownsky/vue-koa-admin/issues"
+  },
+  "homepage": "https://github.com/unknownsky/vue-koa-admin#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
